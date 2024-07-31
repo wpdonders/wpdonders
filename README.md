@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wpdonders
-- 👀 I’m interested in data science and engineering in the healthcare domain
+- 👀 I’m interested in data science and data engineering
 
 <!---
 wpdonders/wpdonders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
